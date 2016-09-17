@@ -17,7 +17,7 @@ profix = '_allbk_35';%'_allbk_89';
 % iLIDSVID/PRID
 partition_name = 'Random'; %'DVR';
 % feature name : LDFV; HistLBP; ColorLBP; DynFV
-featname = 'LDFV';
+featname = 'DynFV';
 % Set channel function for LDFV
 % mask          - LDFV
 % maskT         - tLDFV
